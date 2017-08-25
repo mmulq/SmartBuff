@@ -36,6 +36,7 @@ SMARTBUFF_MAGE[7] = {"Bouclier de mana", 1, SMARTBUFF_CONST_SELF};
 SMARTBUFF_MAGE[8] = {"Gardien de feu", 0.5, SMARTBUFF_CONST_SELF};
 SMARTBUFF_MAGE[9] = {"Gardien de givre", 0.5, SMARTBUFF_CONST_SELF};
 SMARTBUFF_MAGE[10] = {"Barri\195\168re de glace", 1, SMARTBUFF_CONST_SELF};
+SMARTBUFF_MAGE[11] = {"Combustion", -1, SMARTBUFF_CONST_SELF};
 SMARTBUFF_MAGE_PATTERN = {"^Armure d%a %a+"};
 
 -- Priest

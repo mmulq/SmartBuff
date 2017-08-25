@@ -105,6 +105,9 @@ aeldra@sonnenkinder.org
 Changes: 
 Rev     Date        Description
 ------  ----------  -----------------------
+1.12b   2017/08/25  Added new buff: Mage (Combustion)
+                    Removed Russian localization
+
 1.12a   2006/10/01  Fix LUA error 1217 
                     Fix for reset buff timers on group buffs 
                     Fix charge check for priest 
